@@ -6,7 +6,7 @@ import android.view.MotionEvent;
 import android.widget.ListView;
 
 /**
- * listView 滑动 
+ * listView 滑动
  * Created by adamin on 2014/12/16.
  */
 
